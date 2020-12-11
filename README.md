@@ -4,7 +4,7 @@ Compares your ft_printf output with printf output.
 Please mess with the files to improve your learning curve ;)
 
 Supported flags: .*-0
-Supported convt: iduxpcsn
+Supported types: %iduxpcsn
 
 CAUTION!! LINUX AND MAC RESULTS MAY DIFFER!
 - (nil) && 0x0
