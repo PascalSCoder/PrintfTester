@@ -1,10 +1,10 @@
 # PrintfTester
 
+Compares your ft_printf output with printf output.
+Please mess with the files to improve your learning curve ;)
+
 CAUTION!! LINUX AND MAC RESULTS MAY DIFFER!
 - (nil) && 0x0
-
-Compares your ft_printf output with printf output.
-Check the files yourself if you'd like to know what's going on!
 
 Fast test:
 1. cp ft_printf.a to repo
